@@ -10,47 +10,61 @@ The course introduces students to the foundations of computer science and progra
 ## Repository Structure
 
 ```
-├── week0
+├── Problem Set 0
+│   ├── einstein.py
 │   ├── indoor.py
 │   ├── playback.py
-│   └── faces.py
+│   ├── tip.py
+│   └── faces.py    
 ├── week1
 │   ├── bank.py
 │   ├── extensions.py
+│   ├── deep.py
+│   ├── meal.py
 │   └── interpreter.py
 ├── week2
 │   ├── camel.py
-│   ├── plates.py
+│   ├── plate.py
+│   ├── coke.py
+│   ├── nutrition.py
 │   └── twttr.py
 ├── week3
 │   ├── fuel.py
 │   ├── grocery.py
+│   ├── outdated.py
 │   └── taqueria.py
 ├── week4
 │   ├── adieu.py
 │   ├── bitcoin.py
+│   ├── figlet.py
+│   ├── game.py
+│   ├── professorpdf.py
 │   └── emojize.py
 ├── week5
-│   ├── testing
-│   │   ├── test_bank.py
-│   │   ├── test_fuel.py
-│   │   └── test_twttr.py
-│   └── plates.py
+│   ├── calculadora.py
+│   └── test_calcu.py
 ├── week6
+│   ├── antesHP.csv
+│   ├── depoisHP.csv
 │   ├── lines.py
 │   ├── pizza.py
+│   ├── regular.csv
+│   ├── sicilian.csv
 │   └── scourgify.py
 ├── week7
-│   ├── numb3rs.py
-│   ├── response.py
-│   └── working.py
+│   ├── email.py
+│   ├── format.py
+│   └── twitter.py
 ├── week8
-│   ├── jar.py
-│   ├── seasons.py
-│   └── shirt.py
+│   ├── food.py
+│   ├── pacotes.py
+│   ├── students.py
+│   └── type.py
+├── Problem Set 9
+│   ├── bank.py
+│   └── houses.py
 └── final_project
-    ├── project.py
-    └── README.md
+    └── imc.py
 ```
 
 ---
