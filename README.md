@@ -16,34 +16,34 @@ The course introduces students to the foundations of computer science and progra
 │   ├── playback.py
 │   ├── tip.py
 │   └── faces.py    
-├── week1
+├── Problem Set 1
 │   ├── bank.py
 │   ├── extensions.py
 │   ├── deep.py
 │   ├── meal.py
 │   └── interpreter.py
-├── week2
+├── Problem Set 2
 │   ├── camel.py
 │   ├── plate.py
 │   ├── coke.py
 │   ├── nutrition.py
 │   └── twttr.py
-├── week3
+├── Problem Set 3
 │   ├── fuel.py
 │   ├── grocery.py
 │   ├── outdated.py
 │   └── taqueria.py
-├── week4
+├── Problem Set 4
 │   ├── adieu.py
 │   ├── bitcoin.py
 │   ├── figlet.py
 │   ├── game.py
 │   ├── professorpdf.py
 │   └── emojize.py
-├── week5
+├── Problem Set 5
 │   ├── calculadora.py
 │   └── test_calcu.py
-├── week6
+├── Problem Set 6
 │   ├── antesHP.csv
 │   ├── depoisHP.csv
 │   ├── lines.py
@@ -51,11 +51,11 @@ The course introduces students to the foundations of computer science and progra
 │   ├── regular.csv
 │   ├── sicilian.csv
 │   └── scourgify.py
-├── week7
+├── Problem Set 7
 │   ├── email.py
 │   ├── format.py
 │   └── twitter.py
-├── week8
+├── Problem Set 8
 │   ├── food.py
 │   ├── pacotes.py
 │   ├── students.py
